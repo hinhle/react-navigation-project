@@ -1,0 +1,12 @@
+{
+  "name": "reactnavigationproject",
+  "displayName": "reactnavigationproject",
+  "expo": {
+    "name": "reactnavigationproject",
+    "slug": "reactnavigationproject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
